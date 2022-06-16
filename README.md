@@ -1,4 +1,7 @@
 # Tetris-with-Swing
+
+This project is a Tetris recreation using Java Swing and JFrame. The recreation should have a start-up menu, have four separate block types, different levels, allow you to record your score, and allow you to quit the game from the menu.
+
 ### The goals of this project:
 
 1. Gain a better knowledge of GUI and how it is applied in Java
